@@ -4,7 +4,7 @@ body{
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-image: url(image/Castle.jpg);
+  background-image: url(Castle.jpg);
 }
 .card{
   width: 400px;
@@ -39,4 +39,5 @@ transform: scale(1.5);
 @keyframes flip{
   0%{transform:rotateY(0deg);}
   100%{transform:rotateY(180deg);}
+
 }
